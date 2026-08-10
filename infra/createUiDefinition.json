@@ -14,7 +14,7 @@
         }
       }
     },
-    "steps": [
+     “basics”:[],
       {
         "name": "start",
         "label": "Before you start",
