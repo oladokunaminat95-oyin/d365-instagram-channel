@@ -14,7 +14,7 @@
         }
       }
     },
-     “basics”:[],
+    "basic":[],
       {
         "name": "start",
         "label": "Before you start",
