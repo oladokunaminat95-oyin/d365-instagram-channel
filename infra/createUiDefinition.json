@@ -14,19 +14,20 @@
         }
       }
     },
-    "basic":[],
+    "basics": [],
+"steps": [
+  {
+    "name": "start",
+    "label": "Before you start",
+    "elements": [
       {
-        "name": "start",
-        "label": "Before you start",
-        "elements": [
-          {
-            "name": "startIntro",
-            "type": "Microsoft.Common.TextBlock",
-            "visible": true,
-            "options": {
-              "text": "To finish this form you'll need 4 values from Meta (Instagram) and 1 value from Dynamics 365. Have them ready and this takes about 3 minutes. If you don't have them yet, open the guides below first — then come back to this tab."
-            }
-          },
+  "name": "startIntro",
+  "type": "Microsoft.Common.TextBlock",
+  "visible": true,
+  "options": {
+    "text": "To finish this form you'll need 4 values from Meta (Instagram) and 1 value from Dynamics 365. Have them ready and this takes about 3 minutes."
+  }
+},
           {
             "name": "metaGuideLink",
             "type": "Microsoft.Common.TextBlock",
